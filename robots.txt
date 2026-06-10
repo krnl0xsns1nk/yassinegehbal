@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yassingehbal.vercel.app/sitemap.xml
